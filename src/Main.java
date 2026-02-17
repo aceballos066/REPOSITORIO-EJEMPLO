@@ -15,11 +15,7 @@ public class Main {
         System.out.print("Ingrese el segundo número: ");
         double num2 = scanner.nextDouble();
 
-        double resultado = num1 + num2;
-        double resultado2 = num1 - num2;
 
-        System.out.println("El resultado es: " + resultado);
-        System.out.println("El resultado de resta: " + resultado2);
 
         scanner.close();
     }
